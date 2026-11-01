@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Procurement of Medical Equipment and Supplies",
+    "buyer": "Hospital",
+    "source": "Ethiopia eGP",
+    "source_url": "https://production.egp.gov.et/egp/bids/all",
+    "category": "Medical Equipment",
+    "region": "Addis Ababa",
+    "deadline": "2026-11-15"
+  },
+  {
+    "id": "2",
+    "title": "Procurement of Construction Materials",
+    "buyer": "Ethiopian Federal Police",
+    "source": "Ethiopia eGP",
+    "source_url": "https://production.egp.gov.et/egp/bids/all",
+    "category": "Construction Materials",
+    "region": "Addis Ababa",
+    "deadline": "2026-11-20"
+  },
+  {
+    "id": "3",
+    "title": "Supply of Office Furniture",
+    "buyer": "Public Organization",
+    "source": "FreeTender",
+    "source_url": "https://freetender.net/tenders/ethiopia",
+    "category": "Office Furniture",
+    "region": "Oromia",
+    "deadline": "2026-11-10"
+  },
+  {
+    "id": "4",
+    "title": "Vehicle Spare Parts Supply",
+    "buyer": "Regional Transport Bureau",
+    "source": "Bina",
+    "source_url": "https://bina.et/tenders",
+    "category": "Vehicle Spare Parts",
+    "region": "Amhara",
+    "deadline": "2026-11-18"
+  }
+]
